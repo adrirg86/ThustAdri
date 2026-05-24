@@ -1,4 +1,4 @@
-<img width="845" height="644" alt="image" src="https://github.com/user-attachments/assets/f09c5f63-600a-47e6-9aa4-532f8a346de8" />NodeClimb-DockerLabs🇪🇸
+NodeClimb-DockerLabs🇪🇸
 
 
 **1. En primer lugar descomprimiremos el fichero y moveremos sus archivos a nuestra zona de trabajo.**
